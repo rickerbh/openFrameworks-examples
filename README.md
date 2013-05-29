@@ -24,6 +24,6 @@ Similar to square, but using circles. I quite like this effect.
 ### movementVideo - 2013-05-29
 I wanted to attempt to get the circles to change size based on movement in the scene. I figured an easy way to do this is to perform some colour analysis on the pixels between renders, and if there is a significant change, then that is a sign of movement. It's not 100% due to the movement detection method, but an interesting effect nontheless.
 
-![Movement](https://raw.github.com/rickerbh/openFrameworks-examples/master/squareVideo/bin/data/0.png)
+![Movement](https://raw.github.com/rickerbh/openFrameworks-examples/master/movementVideo/bin/data/0.png)
 
 I _promise_ it looks better animated...
